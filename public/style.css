@@ -1,0 +1,49 @@
+.main{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#first{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+select{
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#firstDiv{
+    display: none;
+}
+
+.edit{
+    margin: 5px;
+}
+
+#second{
+    display: none;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+#third{
+    display: none;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.thh{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
